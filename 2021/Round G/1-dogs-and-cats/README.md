@@ -37,3 +37,46 @@ Test Set 1
 Test Set 2
 * Time limit: 40 seconds.
 * 0 ≤ M ≤ 106
+
+# Samples
+
+## Sample 1
+
+Input:
+
+```text
+3
+6 10 4 0
+CCDCDD
+4 1 2 0
+CCCC
+4 2 1 0
+DCCD
+```
+
+Output:
+
+```text
+Case #1: YES
+Case #2: YES
+Case #3: NO
+```
+
+## Sample 2
+
+Input:
+
+```text
+2
+12 4 2 2
+CDCCCDCCDCDC
+8 2 1 3
+DCCCCCDC
+```
+
+Output:
+
+```text
+Case #1: YES
+Case #2: NO
+```
