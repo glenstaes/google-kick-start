@@ -45,3 +45,24 @@ Test Set 2
 * Time limit: 90 seconds.
 * 1≤K≤105
 * −109 ≤ xi,1 , xi,2 , yi,1 , yi,2 ≤ 109, for all i.
+
+# Samples
+
+Input:
+
+```text
+2
+3
+0 0 1 1
+2 3 4 6
+0 3 5 9
+1
+0 0 1 1
+```
+
+Output:
+
+```text
+Case #1: 1 3
+Case #2: 0 0
+```
